@@ -1,0 +1,12 @@
+Yarn é um gerenciador de pacotes utilizado em projetos JavaScript. 
+Ele permite instalar, organizar e gerenciar bibliotecas e dependências 
+necessárias para o funcionamento de um projeto.
+
+Exemplo: yarn add axios instala a biblioteca Axios no projeto.
+
+Resumo: Yarn ajuda a gerenciar os pacotes de um projeto, assim como npm e pnpm.
+
+Para memorizar: Yarn, npm e pnpm têm a mesma finalidade principal: gerenciar
+os pacotes do projeto, embora funcionem de maneiras diferentes.
+
+Fonte: Chatgpt - Inteligência artificial 
